@@ -1,5 +1,5 @@
 # Smiley Face Counter (CodeWars 6kyu)
-
+## To view the code, open the folder and then open "Program.cs."
 Given an array (arr) as an argument complete the function countSmileys that should return the total number of smiling faces.
 
 Rules for a smiling face:
